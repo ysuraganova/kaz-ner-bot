@@ -12,7 +12,7 @@ theme: /
 
     state: Bye
         intent!: /bye
-        a: Дейін!
+        a: Сау болыңыз!
 
     state: NoMatch
         event!: noMatch
